@@ -47,7 +47,7 @@ Model Training: Jupyter Notebook
 
 ## Clone the repository:
 
-git clone https://github.com/Saivardhan190/crop-production-prediction.git
+git clone https://github.com/Saivardhan190/crop_prod_ml.git
 
 Navigate to the project directory:
 
